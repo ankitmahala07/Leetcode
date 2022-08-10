@@ -5,7 +5,7 @@
 | **DESCRIPTION** | ![Problem Description](./assets/problem.png) |
 | **SUBMISSIONS** | ![Submission Details](./assets/submission.png) |
 
-**MY SOLUTION**
+**MY SOLUTION** [CHECK HERE](https://leetcode.com/submissions/detail/628123768/)
 ```
 class Solution {
     public int lengthOfLongestSubstring(String s) {
