@@ -1,10 +1,13 @@
+| LABEL | DESCRIPTION |
+| :---        |    :----:   |
 | **PROBLEM** | **[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)** |
 | **LEVEL** | **MEDIUM** |
 | **DESCRIPTION** | ![Problem Description](./assets/problem.png) |
 | **SUBMISSIONS** | ![Submission Details](./assets/submission.png) |
 
 **MY SOLUTION**
-`class Solution {
+```
+class Solution {
     public int lengthOfLongestSubstring(String s) {
         int i = 0, j = 0, max = 0;
         HashSet<Character> hash_set = new HashSet();
@@ -20,5 +23,6 @@
         }
         return max;
     }
-}`
+}
+```
 
