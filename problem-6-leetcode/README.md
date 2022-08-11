@@ -1,5 +1,5 @@
 | LABEL | DESCRIPTION |
-| :---        |    :----:   |
+| :---        |    :---   |
 | **PROBLEM** | **[6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)** |
 | **LEVEL** | **MEDIUM** |
 | **DESCRIPTION** | ![Problem Description](./assets/problem.png) |

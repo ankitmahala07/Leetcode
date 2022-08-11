@@ -1,5 +1,5 @@
 | LABEL | DESCRIPTION |
-| :---        |    :----:   |
+| :---        |    :---   |
 | **PROBLEM** | **[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)** |
 | **LEVEL** | **MEDIUM** |
 | **DESCRIPTION** | ![Problem Description](./assets/problem.png) |

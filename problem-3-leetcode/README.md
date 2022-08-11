@@ -1,5 +1,5 @@
 | LABEL | DESCRIPTION |
-| :---        |    :----:   |
+| :---        |    :---   |
 | **PROBLEM** | **[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)** |
 | **LEVEL** | **MEDIUM** |
 | **DESCRIPTION** | ![Problem Description](./assets/problem.png) |

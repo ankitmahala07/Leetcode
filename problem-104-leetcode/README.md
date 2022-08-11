@@ -1,5 +1,5 @@
 | LABEL | DESCRIPTION |
-| :---        |    :----:   |
+| :---        |    :---   |
 | **PROBLEM** | **[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)** |
 | **LEVEL** | **EASY** |
 | **DESCRIPTION** | ![Problem Description](./assets/problem.png) |

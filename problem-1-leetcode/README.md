@@ -1,5 +1,5 @@
 | LABEL | DESCRIPTION |
-| :---        |    :----:   |
+| :---        |    :---   |
 | **PROBLEM** | **[1. Two Sum](https://leetcode.com/problems/two-sum)** |
 | **LEVEL** | **EASY** |
 | **DESCRIPTION** | ![Problem Description](./assets/problem.png) |
